@@ -4,31 +4,87 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2020/08/18/hello-world/"/>
-      <url>/2020/08/18/hello-world/</url>
+      <title>百味人生</title>
+      <link href="/2020/08/19/%E7%99%BE%E5%91%B3%E4%BA%BA%E7%94%9F/"/>
+      <url>/2020/08/19/%E7%99%BE%E5%91%B3%E4%BA%BA%E7%94%9F/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><p>​        2020年8月19日，人生阶段：我是一名即将进入大四的学生。今天调整了一下之前搭建的博客，原本打算用来写技术文章，但是想想只写技术文章那多无趣，所以开设了百位人生这个篇章，打算没事的时候回忆一下从小到大那些有趣的事，就当取乐自己，哈哈！！！</p><p><strong>只是简单的记录小故事，并不是写文章。</strong></p><h2 id="故事记录"><a href="#故事记录" class="headerlink" title="故事记录"></a>故事记录</h2><p>​        小时候发生的事太多，为了尽可能的多写点，这个目录用于记录平时想起来的事，以及写作思路等等。</p><ol><li>小时候记忆中的第一件事</li><li>我的爷爷奶奶</li><li></li></ol><h2 id="小时候记忆中的第一件事"><a href="#小时候记忆中的第一件事" class="headerlink" title="小时候记忆中的第一件事"></a>小时候记忆中的第一件事</h2><p>​        那天应给是刚刚下完雪，家中的院子里还堆着雪堆，姐姐刚上小学二年级，母亲没怎么上过学，看到院子了玩耍的我，让姐姐教我算数、拼音……  那时候的我除了玩就是玩，那里知道学习，不管母亲咋说我就是不学，母亲拿起树枝打我，我就绕着院子里的雪堆和母亲转圈圈，母亲拿的树枝比较短，她够不着我，为了吓住我让我去学习，她正在四处看哪里有长一点的树枝，她看到了，我也看到了，在母亲拿树枝的同时，我趁她不注意从大门里溜了出去。出门以后不敢回头，使劲的跑，母亲在后面追，跑到家门下面的小路上，母亲让我别跑了，我对母亲说：“别打我，我就不跑了”。母亲答应了，就这样，她在前面走着，我远远地跟着，生怕她反悔打我，在我的记忆中回到家我虽然没有挨打，但还是被逼着去学习。哈哈！！！这是我记忆中最早的一件事，记录一下吧！</p><p>记录时间：2020年8月19日   </p>]]></content>
       
       
+      <categories>
+          
+          <category> 百味人生 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 百味人生 </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>我的第一篇博客</title>
-      <link href="/2020/07/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-      <url>/2020/07/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+      <title>专业词汇101-200</title>
+      <link href="/2020/08/19/%E4%B8%93%E4%B8%9A%E8%AF%8D%E6%B1%87101-200/"/>
+      <url>/2020/08/19/%E4%B8%93%E4%B8%9A%E8%AF%8D%E6%B1%87101-200/</url>
       
-        <content type="html"><![CDATA[<p>初次来到博客！！！，</p>]]></content>
+        <content type="html"><![CDATA[<p>common共同。普通，常见<br>printk 代码，日志，打印内核调试信息<br>license授权。许可，许可证<br>module，模块<br>author作者<br>goodbye再见<br>description描述<br>alias别名<br>obj目标文件<br>param参数<br>parm各个参数的定义;<br>register注册，登记<br>operations营运，操作<br>derive驱动<br>boot启动<br>root根<br>command命令<br>insert插入<br>last line 底行<br>normal普通<br>install安装<br>depmod 分析可加载模块的依赖性，模块关系<br>apt-get 软件包管理工具<br>API应用程序接口<br>zImage压缩的内核<br> VFS虚拟文件系统（Virtual File System）<br> repository仓库<br>owner所有者<br>IDE集成开发环境（integrated development environment）<br>professional专业<br>continue继续<br>archive                                         档案<br>archive member targets            档案成员目标<br>arguments of functions                函数参数<br>automatic variables                               自动变量<br>backslash ()                                     反斜杠<br>basename                                       基本文件名<br>binary packages                                  二进制包<br>compatibility                                    兼容性<br>data base                                       数据库<br>default directries                                 缺省目录<br>default goal                                     缺省最终目标<br>defining variables verbatim          定义多行变量<br>directive                                       指令<br>dummy pattern rule            伪格式规则<br>echoing of commainds                 命令回显<br>editor                                         编辑器<br>empty commands                                 空命令<br>empty targets                                     空目标<br>environment                                      环境<br>explicit rule                                      具体规则<br>file name functions                            文件名函数<br>file name suffix                                   文件名后缀<br>flags                                            标志<br>flavors of variables                            变量的特色<br>functions                                        函数<br>goal                                            最终目标<br>implicit rule                                      隐含规则<br>incompatibilities                                  不兼容性<br>intermediate files                                 中间文件<br>match-anything rule                              万用规则<br>options                                          选项<br>parallel execution                                  并行执行<br>pattern rule                                       格式规则<br>phony targets                                     假想目标<br>prefix                                           前缀<br>prerequisite                                      依赖<br>recompilation                                    重新编译<br>rule                                            规则<br>shell command                                   shell命令<br>static pattern rule                    静态格式规则<br>stem                                            径<br>sub-make                                        子make<br>subdirectories                                     子目录<br>suffix                                            后缀<br>suffix rule                                        后缀规则<br>switches                                         开关<br>target                                           目标<br>value                                           值<br>variable                                         变量<br>wildcard                                        通配符<br>word                                           字<br>Idle task   空闲任务<br>时间戳 Timestamp<br>PRIMASK 中断屏蔽寄存器组<br>prio优先级<br>当前(Current)<br>rdy 就绪<br>eval评估<br>free自由的免费的<br>操作系统(Operating System)<br>public公共的，公用的<br>global全球的<br>Untracked files:无路径的文件:<br> 贮藏起来cached<br>log历史记录<br>master主要的<br>register注册，寄存器<br>equal等于<br>仓库(Repository)</p>]]></content>
       
       
       <categories>
           
-          <category> Linux驱动开发 </category>
+          <category> 英语单词 </category>
           
       </categories>
+      
+      
+        <tags>
+            
+            <tag> 单词 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>专业词汇1-100</title>
+      <link href="/2020/08/19/%E4%B8%93%E4%B8%9A%E8%AF%8D%E6%B1%871-100/"/>
+      <url>/2020/08/19/%E4%B8%93%E4%B8%9A%E8%AF%8D%E6%B1%871-100/</url>
+      
+        <content type="html"><![CDATA[<p><strong>lookup reference                                  查找参考</strong><br><strong>go forward                                   前进</strong><br><strong>go back                              返回</strong><br><strong>boot loader                            引导装载（载入）程序</strong><br><strong>U- boot                                   引导加载程序</strong><br><strong>group                               群组</strong><br><strong>execute                          执行</strong><br><strong>Logout                         登出，退出，注销，退出账户</strong><br><strong>shell                        外壳</strong><br><strong>size                        大小</strong><br><strong>align 对齐，排列</strong><br><strong>real真实，真实的</strong><br><strong>thread线程，多线程</strong><br><strong>entry入口</strong><br><strong>list列表，链表</strong><br><strong>prev上一个</strong><br><strong>node节点，交点</strong><br><strong>current当前的</strong><br><strong>parameter 参数</strong><br><strong>abbr. 地址（address）</strong><br><strong>schedule调度</strong><br><strong>Component 组件，组成，部分，成分，部件</strong><br><strong>patch补丁</strong><br><strong>kernel内核</strong><br><strong>Bash编译器</strong><br><strong>command 命令</strong><br><strong>BIOS  基本输入/输出系统Basic Input / Output System</strong><br><strong>systemd 用来列出该服务在哪些运行级别下启用和禁用;用来列出可以启动或停止的服务列表;原生支持;添加新连接;</strong><br><strong>target目标</strong><br><strong>MBR主引导记录,记忆体基址暂存器 (memory base register)</strong><br><strong>BOOT 启动</strong><br><strong>loader载入器</strong><br><strong>sector扇区</strong><br><strong>declare声明</strong><br><strong>Makefile 生成文件</strong><br><strong>mount挂载</strong><br><strong>Targer 目标</strong><br><strong>bulid   建立</strong><br><strong>block   块</strong><br><strong>directory 目录</strong><br><strong>flags标记</strong><br><strong>board support package板级支持包</strong><br><strong>is up to date   是最新的</strong><br><strong>Script   脚本</strong><br><strong>mount   挂载</strong><br><strong>unmount   卸载</strong><br><strong>clean/clear   清除</strong><br><strong>unit   单元</strong><br><strong>reset   重置，复位</strong><br><strong>Power Management Unit电源管理单元</strong><br><strong>diagram   图表</strong><br><strong>block块</strong><br><strong>block diagram   框图</strong><br><strong>above以上</strong><br><strong>control控制</strong><br><strong>iomux　（input/output multiplexer） 输入/输出多路器</strong><br><strong>gate门</strong><br><strong>peripheral外部设备</strong><br><strong>part部分</strong><br><strong>Introduction介绍</strong><br><strong>Overview概述</strong><br><strong>Process Voltage Temperature Monitor过程电压温度监控器</strong><br><strong>Process    过程</strong><br><strong>Voltage    电压</strong><br><strong>Temperature    温度</strong><br><strong>Monitor    监控器</strong><br><strong>width      宽度</strong><br><strong>Interface     接 口</strong><br><strong>Detection     检测</strong><br><strong>port   端口</strong><br><strong>operation   操作</strong><br><strong>implements   实现</strong><br><strong>slave   从设备</strong><br><strong>Description   描述</strong><br><strong>Control mode  控制方式</strong><br><strong>Under   之下</strong><br><strong>direction   方向</strong><br><strong>signal   信号</strong><br><strong>Features   特征</strong><br><strong>First of all   首先</strong><br><strong>Summary   总结，概要</strong><br><strong>Detail Register Description   详细寄存器描述</strong><br><strong>timing Diagram   时序图</strong><br><strong>diagram   图表</strong><br><strong>System Development Reference  系统开发参考</strong><br><strong>rockchip   瑞芯微电子</strong><br><strong>patches   补丁</strong><br><strong>definition   定义</strong><br><strong>current   当前，现任</strong><br><strong>general   通用， 一般</strong><br><strong>functionality   功能</strong><br><strong>low-level //低电平</strong><br><strong>high-level    //高电平</strong><br><strong>rising-edge   //上升沿</strong><br><strong>falling-edge  //下降沿</strong><br><strong>sensitive    敏感</strong><br><strong>digital   数字的</strong><br><strong>GPIO Init structure definition  初始化结构定义</strong><br><strong>analog-to-digital converter 模拟数字转换器</strong><br><strong>freq   频率</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 英语单词 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 单词 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2020/08/18/hello-world/"/>
+      <url>/2020/08/18/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
       
       
     </entry>
