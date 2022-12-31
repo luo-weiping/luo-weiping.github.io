@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>珞珠</title>
+  
+  <subtitle>珞珠</subtitle>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-08-19T14:16:56.215Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>罗伟平</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>加密文章</title>
+    <link href="http://yoursite.com/2020/08/19/jia-mi-wen-zhang/"/>
+    <id>http://yoursite.com/2020/08/19/jia-mi-wen-zhang/</id>
+    <published>2020-08-19T14:16:16.000Z</published>
+    <updated>2020-08-19T14:16:56.215Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;lookup reference     查找参考&lt;/li&gt;
+&lt;li&gt;go forward  前进&lt;/li&gt;
+&lt;li&gt;go back  返回&lt;/li&gt;
+&lt;li&gt;boot loader  引导装载（载入）程序&lt;/li&gt;
+&lt;li&gt;U- boot</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>百味人生</title>
+    <link href="http://yoursite.com/2020/08/19/bai-wei-ren-sheng/"/>
+    <id>http://yoursite.com/2020/08/19/bai-wei-ren-sheng/</id>
+    <published>2020-08-19T08:06:40.000Z</published>
+    <updated>2022-12-30T15:07:53.792Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;说明&quot;&gt;&lt;a href=&quot;#说明&quot; class=&quot;headerlink&quot; title=&quot;说明&quot;&gt;&lt;/a&gt;说明&lt;/h2&gt;&lt;p&gt;​       </summary>
+        
+      
+    
+    
+    
+    <category term="百味人生" scheme="http://yoursite.com/categories/%E7%99%BE%E5%91%B3%E4%BA%BA%E7%94%9F/"/>
+    
+    
+    <category term="百味人生" scheme="http://yoursite.com/tags/%E7%99%BE%E5%91%B3%E4%BA%BA%E7%94%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>专业词汇101-200</title>
+    <link href="http://yoursite.com/2020/08/19/zhuan-ye-ci-hui-101-200/"/>
+    <id>http://yoursite.com/2020/08/19/zhuan-ye-ci-hui-101-200/</id>
+    <published>2020-08-19T05:56:36.000Z</published>
+    <updated>2020-08-19T11:28:10.590Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;common            共同。普通，常见&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;printk                代码，日志，打印内核调试信息&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;license          </summary>
+        
+      
+    
+    
+    
+    <category term="英语单词" scheme="http://yoursite.com/categories/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D/"/>
+    
+    
+    <category term="单词" scheme="http://yoursite.com/tags/%E5%8D%95%E8%AF%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>专业词汇1-100</title>
+    <link href="http://yoursite.com/2020/08/19/zhuan-ye-ci-hui-1-100/"/>
+    <id>http://yoursite.com/2020/08/19/zhuan-ye-ci-hui-1-100/</id>
+    <published>2020-08-19T05:49:27.000Z</published>
+    <updated>2020-08-20T02:13:24.158Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;  lookup reference       查找参考&lt;br&gt;  go forward     前进&lt;br&gt;  go back     返回&lt;br&gt;  boot loader     引导装载（载入）程序&lt;br&gt;  U- boot      引导加载程序&lt;br&gt; </summary>
+        
+      
+    
+    
+    
+    <category term="英语单词" scheme="http://yoursite.com/categories/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D/"/>
+    
+    
+    <category term="单词" scheme="http://yoursite.com/tags/%E5%8D%95%E8%AF%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/08/18/hello-world/"/>
+    <id>http://yoursite.com/2020/08/18/hello-world/</id>
+    <published>2020-08-18T09:18:07.046Z</published>
+    <updated>2020-07-10T04:54:07.283Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
